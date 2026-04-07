@@ -1,11 +1,11 @@
-# 核心依赖
-langchain==0.1.0
-chromadb==0.4.22
+langchain==1.2.15
+langchain_community==0.4.1
+langchain_ollama==1.1.0
 streamlit==1.29.0
+chromadb==0.4.22
 torch==2.1.0
 transformers==4.36.0
 sentence-transformers==2.2.2
-
 # 文档解析
 pypdf==3.17.0
 python-docx==1.1.0
